@@ -1,7 +1,7 @@
 # H2O_Test
 
-This is a notebook about my first dive into AutoML using H2O Flow platform. 
-Housing pricing data from Kaggle is imported to predict the house price using GBM(Gradient boosting method).
+This is a notebook about my first dive into AutoML using [H2O Flow platform](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/flow.html#about). 
+Housing pricing data from [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview) is imported to predict the house price using GBM(Gradient boosting method).
 
 As it is my first dive into H2O flow, I focus on the UI more than data manipulation, such as feature engineering, data preprocessing, etc..
 I build the GBM model with the original dataset.
